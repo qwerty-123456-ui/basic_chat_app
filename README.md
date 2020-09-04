@@ -1,10 +1,8 @@
-# chat_app
+#  Flutter Basic Chat App
 
-A new Flutter application.
+## Basic Chat App to send messages.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
+![](assets/2.gif)
 
 A few resources to get you started if this is your first Flutter project:
 
